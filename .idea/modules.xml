@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.blairdye.springactor.layers.iml" filepath="$PROJECT_DIR$/.idea/modules/net.blairdye.springactor.layers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.blairdye.springactor.layers_main.iml" filepath="$PROJECT_DIR$/.idea/modules/net.blairdye.springactor.layers_main.iml" group="net.blairdye.springactor.layers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.blairdye.springactor.layers_test.iml" filepath="$PROJECT_DIR$/.idea/modules/net.blairdye.springactor.layers_test.iml" group="net.blairdye.springactor.layers" />
+    </modules>
+  </component>
+</project>
